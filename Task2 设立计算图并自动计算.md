@@ -176,6 +176,6 @@ torch.save(model.state_dict(), 'model.ckpt')
 
 最后画出来的图：
 
-![1565321538681](C:\Users\T470P\AppData\Roaming\Typora\typora-user-images\1565321538681.png)
+![示意图](1565321538681.png)
 
 (未完持续)
